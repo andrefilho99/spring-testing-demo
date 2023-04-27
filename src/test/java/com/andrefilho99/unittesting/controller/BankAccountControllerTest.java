@@ -6,7 +6,6 @@ import com.andrefilho99.unittesting.dto.BankAccountResponse;
 import com.andrefilho99.unittesting.exceptions.BankAccountNotFoundException;
 import com.andrefilho99.unittesting.service.BankAccountService;
 import com.google.gson.Gson;
-import org.aspectj.lang.annotation.Before;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.modelmapper.ModelMapper;
